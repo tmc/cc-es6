@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "webpack": "*",
+    "babel-loader": "*",
+    "babel-runtime": "*"
+  }
+}
